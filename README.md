@@ -2,7 +2,7 @@
 
 ## Description
 
-A 1 on 1 video call and screen sharing web application built with React, React Router and ZegoCloud -WebRTC API Platform.
+ A cutting-edge 1 on 1 video call and screen sharing web application that empowers seamless communication in real-time. This application is meticulously crafted using React, React Router, and leverages the power of ZegoCloud's WebRTC API Platform to deliver an immersive and interactive user experience.
 
 ## Project URL
 
